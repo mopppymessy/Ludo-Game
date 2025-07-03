@@ -52,12 +52,12 @@ Player 1 rolled a 6.
 Tokens in hand: \[1, 2, 3]
 Tokens on board: \[]
 Choose a token to PLACE from hand or MOVE from board, type token number: 1
-
+'''
 1  .  .  .
 .  .  .  .
 .  .  .  .
 .  .  .  .
-
+'''
 🏁Completed tokens: \[]
 
 
