@@ -11,8 +11,8 @@ This is a terminal-based two-player board game written in Python. The game is pl
 
 - The board is a 4x4 grid represented in a linear fashion 0 to 15
 - Each player has 3 tokens:
-  - Player 1: Tokens `1`, `2`, `3`
-  - Player 2: Tokens `4`, `5`, `6`
+  - Player 1: Tokens 1, 2, 3
+  - Player 2: Tokens 4, 5, 6
 - Tokens can only be introduced onto the board after rolling a 6.
 - Once a token is on the board, it moves forward based on dice rolls.
 - The objective is to move all your tokens to the end of the board and exit them using an exact roll.
@@ -52,12 +52,12 @@ Player 1 rolled a 6.
 Tokens in hand: \[1, 2, 3]
 Tokens on board: \[]
 Choose a token to PLACE from hand or MOVE from board, type token number: 1
----
+
 1  .  .  .
 .  .  .  .
 .  .  .  .
 .  .  .  .
----
+
 🏁Completed tokens: \[]
 
 
@@ -98,12 +98,12 @@ Follow the prompts in the terminal.
 * Terminal based interaction
 * Random module for dice simulation
 
-## 🙋‍♀️ Future Improvements
+## Future Improvements
 
 - Add turn history or move log
--🖼️ GUI version using Tkinter or Pygame
-- 🎨 Color-coded tokens
-- 🌍 Online multiplayer support
+-🖼GUI version using Tkinter or Pygame
+- Color-coded tokens
+- Online multiplayer support
 
 
 
