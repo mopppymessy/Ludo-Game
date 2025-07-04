@@ -1,6 +1,5 @@
 
 
-### 4x4 Turn-Based Token Board Game**
 
 # 4x4 Turn-Based Token Board Game Python 
 
