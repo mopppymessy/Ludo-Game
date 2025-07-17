@@ -1,7 +1,7 @@
 
 
 
-# 4x4 Ludo-Token Board Game Python 
+# Ludo-Token Board Game Python 
 
 This is a terminal-based two-player board game written in Python. The game is played on a 4x4 grid, where each player strategically moves 3 tokens across the board based on dice rolls. The first player to complete all tokens wins.
 
